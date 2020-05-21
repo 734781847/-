@@ -1,0 +1,4 @@
+var userName = encodeURIComponent(document.querySelector("L_account").value);
+var password = encodeURIComponent(document.querySelector("L_owd").value);
+
+var

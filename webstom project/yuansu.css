@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(244,244,246);
+    padding-top: 44px;
+}
+header{
+    background: rgb(40,133,202);
+    color: white;
+    text-align: center;
+    line-height: 44px;
+    font-size: 18px;
+
+    left: 0;
+    top: 0;
+    width: 100%;
+
+    position: fixed;
+}
+.DS_second_section {
+    width: 100%;
+    margin-bottom: -6px;
+}
+.p{
+    margin-left: 45px;
+}
+.p1{
+    margin-left: 25px;
+    font-size: 10px;
+    color: white;
+}
+
+.cyxm1{
+     display: inline-block;
+    width: 380px;
+    height: 40px;
+    font-size: 20px;
+    background: rgb(221,221,221);
+}
+.block{
+    float: left;
+    text-align: center;
+    height: 100%;
+    width: 33.3%;}
+
